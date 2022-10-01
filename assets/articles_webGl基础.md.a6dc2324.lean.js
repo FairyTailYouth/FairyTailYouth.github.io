@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.1f87dc7e.js";const D=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/webGl\u57FA\u7840.md"}'),l={name:"articles/webGl\u57FA\u7840.md"},p=e("",6),o=[p];function t(c,r,C,i,A,d){return n(),a("div",null,o)}var _=s(l,[["render",t]]);export{D as __pageData,_ as default};

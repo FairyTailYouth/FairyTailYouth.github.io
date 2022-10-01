@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.1f87dc7e.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/javascript/idnex.md"}'),r={name:"articles/javascript/idnex.md"};function s(c,n,i,o,p,d){return a(),t("div")}var m=e(r,[["render",s]]);export{l as __pageData,m as default};
