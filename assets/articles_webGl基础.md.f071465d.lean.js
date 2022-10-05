@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.f97f91c0.js";const b=JSON.parse('{"title":"\u4EC0\u4E48\u662FWebGL","description":"","frontmatter":{},"headers":[],"relativePath":"articles/webGl\u57FA\u7840.md"}'),l={name:"articles/webGl\u57FA\u7840.md"},p=e("",8),o=[p];function t(c,r,i,C,A,d){return n(),a("div",null,o)}var D=s(l,[["render",t]]);export{b as __pageData,D as default};
